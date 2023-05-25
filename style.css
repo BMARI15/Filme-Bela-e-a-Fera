@@ -1,6 +1,7 @@
 body{
     background-color: rgb(87, 7, 7);
     color: papayawhip;
+    font-family: lobster;
     
 }
     h2{
@@ -25,4 +26,15 @@ body{
    .link{
    color: papayawhip ;
    font-size: 22px;
+   }
+
+   .imagem-informacao{
+    width: 20%;
+    height: 15em;
+   }
+
+   .texto-informacao{
+    color: peachpuff;
+    font-size: 25px;
+    font-family: lobster ;
    }
